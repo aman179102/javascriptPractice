@@ -1,4 +1,3 @@
-// <------------------First Video------------------------------->
 //Hey I am learning javascript
 //print
 console.log("Hello World");
@@ -494,7 +493,8 @@ console.log(person20.fullName);
 //static property in js
 const ccc = Person.classInfo();
 console.log(ccc);
-// <--------------------------Second Video Content--------------------------->
+
+
 console.log(this);
 console.log(window);
 console.log(firstName);
